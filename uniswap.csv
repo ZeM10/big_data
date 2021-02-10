@@ -1,0 +1,401 @@
+CurrencyRank,Currency,Pair,Volume (24h),Price,Volume (%),Liquidity,Category,Fee Type,Updated
+1,WETH,WETH/FOX,$5479006720,$47793.50,100.00%,-,Spot,Percentage,20 hours ago
+2,USD Coin,USDC/WETH,$101301293,$1.00,2.70%,935,Spot,Percentage,Recently
+3,WETH,WETH/USDT,$92021645,$1781.35,2.45%,919,Spot,Percentage,Recently
+4,Wrapped Bitcoin,WBTC/WETH,$67736171,$45687.49,1.80%,940,Spot,Percentage,Recently
+5,Umbrella Network,UMB/WETH,$45198435,$2.39,1.20%,-,Spot,Percentage,Recently
+6,Dai,DAI/WETH,$43400175,$1.00,1.16%,895,Spot,Percentage,Recently
+7,Tornado Cash,TORN/WETH,$41067357,$274.67,1.09%,-,Spot,Percentage,Recently
+8,Tendies,TEND/WETH,$33913429,$0.1741,0.90%,-,Spot,Percentage,Recently
+9,DAO Maker,DAO/WETH,$21561671,$2.37,0.57%,-,Spot,Percentage,Recently
+10,Uniswap,UNI/WETH,$20130864,$20.37,0.54%,930,Spot,Percentage,Recently
+11,Chainlink,LINK/WETH,$18316024,$27.16,0.49%,841,Spot,Percentage,Recently
+12,Decentr,DEC/WETH,$15615005,$0.4820,0.42%,-,Spot,Percentage,Recently
+13,PAID Network,PAID/WETH,$15151356,$3.02,0.40%,539,Spot,Percentage,Recently
+14,Base Protocol,BASE/WETH,$13959856,$1.44,0.37%,464,Spot,Percentage,Recently
+15,Wrapped Bitcoin,WBTC/BADGER,$13162579,$46063.13,0.35%,829,Spot,Percentage,Recently
+16,Unistake,UNISTAKE/WETH,$12181348,$0.1882,0.32%,-,Spot,Percentage,Recently
+17,Aave,AAVE/WETH,$12135935,$524.34,0.32%,-,Spot,Percentage,Recently
+18,Interest Bearing ETH,ibETH/ALPHA,$11950532,$1788.15,0.32%,-,Spot,Percentage,Recently
+19,WETH,WETH/BONDLY,$11945649,$1801.67,0.32%,469,Spot,Percentage,Recently
+20,Finxflo,FXF/WETH,$11706537,$0.5679,0.31%,-,Spot,Percentage,Recently
+21,Synthetix,SNX/WETH,$10169405,$25.18,0.27%,714,Spot,Percentage,Recently
+22,WETH,WETH/ROOK,$9364285,$1801.79,0.25%,640,Spot,Percentage,Recently
+23,WETH,WETH/RGT,$8574862,$1881.94,0.23%,-,Spot,Percentage,Recently
+24,DeFi Pulse Index,DPI/WETH,$7747376,$443.89,0.21%,827,Spot,Percentage,Recently
+25,OptionRoom,ROOM/WETH,$7312384,$2.14,0.19%,-,Spot,Percentage,Recently
+26,yearn.finance,YFI/WETH,$7083438,$37485.10,0.19%,677,Spot,Percentage,Recently
+27,Maker,MKR/WETH,$7081933,$2601.15,0.19%,762,Spot,Percentage,Recently
+28,Rubic,RB/WET,$6777956,$0.4473,0.18%,537,Spot,Percentage,Recently
+29,Matic Network,MATIC/WETH,$6380999,$0.1106,0.17%,-,Spot,Percentage,Recently
+30,cVault.finance,CORE/WETH,$5503544,$6749.80,0.15%,838,Spot,Percentage,Recently
+31,Reserve Rights,RSR/WETH,$5458099,$0.05108,0.15%,552,Spot,Percentage,Recently
+32,Origin Protocol,OGN/WETH,$5426654,$0.4938,0.14%,-,Spot,Percentage,Recently
+33,TerraUSD,UST/USDT,$5247144,$1.01,0.14%,-,Spot,Percentage,Recently
+34,Bao Finance,BAO/WETH,$4956738,$0.001138,0.13%,579,Spot,Percentage,Recently
+35,Celsius,CEL/WETH,$4802977,$6.00,0.13%,696,Spot,Percentage,Recently
+36,Basis Cash,BAC/DAI,$4702576,$0.5128,0.13%,764,Spot,Percentage,Recently
+37,Nord Finance,NORD/WETH,$4504245,$7.87,0.12%,-,Spot,Percentage,Recently
+38,WETH,WETH/REEF,$4343413,$1741.67,0.12%,-,Spot,Percentage,Recently
+39,Shopping,SPI/WETH,$4329103,$41.56,0.12%,-,Spot,Percentage,Recently
+40,Frax,FRAX/USDC,$4313441,$0.9997,0.11%,-,Spot,Percentage,Recently
+41,USD Coin,USDC/USDT,$4289461,$0.9986,0.11%,766,Spot,Percentage,Recently
+42,Tokenlon Network Token,LON/WETH,$4274979,$6.97,0.11%,-,Spot,Percentage,Recently
+43,Polkastarter,POLS/WETH,$4260289,$2.62,0.11%,672,Spot,Percentage,Recently
+44,Bridge Mutual,BMI/WETH,$3691143,$3.54,0.10%,421,Spot,Percentage,Recently
+45,WETH,WETH/ankrETH,$3581813,$1807.25,0.10%,-,Spot,Percentage,Recently
+46,Stake DAO,SDT/WETH,$3477065,$14.59,0.09%,734,Spot,Percentage,Recently
+47,1inch,1INCH/WETH,$3465864,$5.23,0.09%,-,Spot,Percentage,Recently
+48,Frax Share,FXS/FRAX,$3424283,$7.73,0.09%,-,Spot,Percentage,Recently
+49,KORE Vault,KORE/WETH,$3382941,$512.20,0.09%,-,Spot,Percentage,101 days ago
+50,Frax Share,FXS/WETH,$3369216,$7.70,0.09%,-,Spot,Percentage,Recently
+51,TrueFi,TRU/WETH,$3248016,$0.3925,0.09%,-,Spot,Percentage,Recently
+52,Mirror Protocol,MIR/WETH,$3244781,$5.03,0.09%,-,Spot,Percentage,Recently
+53,SushiSwap,SUSHI/WETH,$3157515,$14.49,0.08%,512,Spot,Percentage,Recently
+54,API3,API3/WETH,$3140427,$5.42,0.08%,-,Spot,Percentage,Recently
+55,yAxis,YAX/WETH,$3133634,$34.56,0.08%,464,Spot,Percentage,Recently
+56,Loopring,LRC/WETH,$3133341,$0.7105,0.08%,696,Spot,Percentage,Recently
+57,WETH,WETH/INJ,$3127795,$1777.30,0.08%,-,Spot,Percentage,Recently
+58,WETH,WETH/GRT,$3123428,$1776.17,0.08%,-,Spot,Percentage,Recently
+59,Frax,FRAX/WETH,$2976568,$0.9905,0.08%,-,Spot,Percentage,Recently
+60,APY.Finance,APY/WETH,$2825406,$1.04,0.08%,-,Spot,Percentage,Recently
+61,WETH,WETH/AMPL,$2806925,$1797.49,0.07%,771,Spot,Percentage,Recently
+62,DistX,DistX/WETH,$2743678,$0.01760,0.07%,-,Spot,Percentage,57 days ago
+63,Indexed Finance,NDX/WETH,$2702198,$13.00,0.07%,-,Spot,Percentage,Recently
+64,Tether,USDT/ZKS,$2668911,$0.9934,0.07%,723,Spot,Percentage,Recently
+65,WETH,WETH/DUCK,$2659018,$1788.23,0.07%,553,Spot,Percentage,Recently
+66,BarnBridge,BOND/USDC,$2642587,$61.80,0.07%,752,Spot,Percentage,Recently
+67,Poolz Finance,POOLZ/WETH,$2631693,$25.79,0.07%,-,Spot,Percentage,Recently
+68,Pickle Finance,PICKLE/WETH,$2602062,$30.48,0.07%,678,Spot,Percentage,Recently
+69,Ren,REN/WETH,$2591481,$0.8925,0.07%,544,Spot,Percentage,Recently
+70,Meta,MTA/WETH,$2506989,$4.23,0.07%,563,Spot,Percentage,Recently
+71,WETH,WETH/BFLY,$2483201,$1801.86,0.07%,-,Spot,Percentage,Recently
+72,WETH,WETH/ONX,$2404167,$1811.82,0.06%,-,Spot,Percentage,Recently
+73,Wrapped Bitcoin,WBTC/USDC,$2386798,$45808.16,0.06%,534,Spot,Percentage,Recently
+74,Mirror Protocol,MIR/UST,$2328740,$5.12,0.06%,-,Spot,Percentage,Recently
+75,Compound,COMP/WETH,$2309563,$495.19,0.06%,627,Spot,Percentage,Recently
+76,WETH,WETH/XED,$2304499,$1798.14,0.06%,-,Spot,Percentage,Recently
+77,WETH,WETH/SNOW,$2255416,$1805.32,0.06%,400,Spot,Percentage,Recently
+78,Morpheus.Network,MRPH/WETH,$2217104,$3.27,0.06%,0,Spot,Percentage,Recently
+79,Marlin,POND/USDC,$2213801,$0.09261,0.06%,-,Spot,Percentage,Recently
+80,WETH,WETH/DDIM,$2212189,$1807.52,0.06%,522,Spot,Percentage,Recently
+81,Hegic,HEGIC/WETH,$2204300,$0.3675,0.06%,-,Spot,Percentage,Recently
+82,Radix,eXRD/USDC,$2151792,$0.1353,0.06%,-,Spot,Percentage,Recently
+83,WETH,WETH/stETH,$2150078,$1807.25,0.06%,737,Spot,Percentage,Recently
+84,Growth DeFi,GRO/WETH,$2138356,$38.58,0.06%,0,Spot,Percentage,Recently
+85,WETH,WETH/XCUR,$2109363,$1799.33,0.06%,-,Spot,Percentage,Recently
+86,Keep3rV1,KP3R/WETH,$2099111,$402.73,0.06%,-,Spot,Percentage,Recently
+87,Oraichain Token,ORAI/WETH,$2081041,$40.09,0.06%,479,Spot,Percentage,Recently
+88,Perpetual Protocol,PERP/WETH,$2046841,$7.53,0.05%,649,Spot,Percentage,Recently
+89,xDai,STAKE/WETH,$2037543,$20.48,0.05%,576,Spot,Percentage,Recently
+90,Dai,DAI/BAS,$1928992,$0.9908,0.05%,441,Spot,Percentage,Recently
+91,Harvest Finance,FARM/WETH,$1927928,$245.65,0.05%,617,Spot,Percentage,Recently
+92,USD Coin,USDC/MM,$1893257,$0.9998,0.05%,-,Spot,Percentage,Recently
+93,WETH,WETH/SWAP,$1877378,$1790.75,0.05%,563,Spot,Percentage,Recently
+94,ARMOR,ARMOR/WETH,$1876031,$0.8869,0.05%,439,Spot,Percentage,Recently
+95,AllianceBlock,ALBT/WETH,$1867100,$0.6190,0.05%,439,Spot,Percentage,Recently
+96,Komet,KOMET/WETH,$1844912,$119.57,0.05%,-,Spot,Percentage,Recently
+97,Dai,DAI/USDC,$1810644,$1.00,0.05%,696,Spot,Percentage,Recently
+98,Unibright,UBT/WETH,$1758978,$0.8439,0.05%,444,Spot,Percentage,Recently
+99,Quant,QNT/WETH,$1749092,$40.31,0.05%,396,Spot,Percentage,Recently
+100,PARSIQ,PRQ/WETH,$1678372,$1.13,0.04%,434,Spot,Percentage,Recently
+101,Whiteheart,WHITE/WETH,$1647360,$3782.60,0.04%,521,Spot,Percentage,Recently
+102,Dai,DAI/USDT,$1569395,$1.01,0.04%,674,Spot,Percentage,Recently
+103,USD Coin,USDC/GRT,$1539803,$1.00,0.04%,-,Spot,Percentage,Recently
+104,Cream Finance,CREAM/WETH,$1530469,$232.35,0.04%,-,Spot,Percentage,Recently
+105,MP3,MP3/WETH,$1504591,$0.08093,0.04%,-,Spot,Percentage,Recently
+106,Robonomics.network,XRT/WETH,$1495843,$32.09,0.04%,380,Spot,Percentage,Recently
+107,Orion Protocol,ORN/WETH,$1494753,$6.12,0.04%,648,Spot,Percentage,Recently
+108,RAMP,RAMP/WETH,$1474198,$0.2545,0.04%,553,Spot,Percentage,Recently
+109,Shroom.Finance,SHROOM/WETH,$1470881,$0.1743,0.04%,-,Spot,Percentage,110 days ago
+110,Gala,GALA/WETH,$1456389,$0.01402,0.04%,-,Spot,Percentage,Recently
+111,Ocean Protocol,OCEAN/WETH,$1420657,$0.8541,0.04%,444,Spot,Percentage,Recently
+112,Crowns,CWS/WETH,$1381540,$18.05,0.04%,-,Spot,Percentage,Recently
+113,saffron.finance,SFI/WETH,$1377907,$1236.43,0.04%,-,Spot,Percentage,Recently
+114,OriginTrail,TRAC/WETH,$1372391,$0.3980,0.04%,-,Spot,Percentage,Recently
+115,HEX,HEX/WETH,$1364870,$0.01272,0.04%,-,Spot,Percentage,Recently
+116,Benchmark Protocol,MARK/WETH,$1355303,$1.89,0.04%,-,Spot,Percentage,Recently
+117,CryptoTask,CTASK/WETH,$1349191,$1.48,0.04%,-,Spot,Percentage,Recently
+118,Bondly,BONDLY/USDT,$1328314,$0.4015,0.04%,-,Spot,Percentage,Recently
+119,Linear,LINA/USDT,$1322434,$0.08849,0.04%,-,Spot,Percentage,Recently
+120,USD Coin,USDC/DHT,$1319488,$1.00,0.04%,528,Spot,Percentage,Recently
+121,FNK wallet,FNK/USDT,$1305736,$26.23,0.03%,-,Spot,Percentage,Recently
+122,SparkPoint,SRK/WETH,$1266899,$0.006236,0.03%,-,Spot,Percentage,Recently
+123,Keep Network,KEEP/WETH,$1265628,$0.3795,0.03%,543,Spot,Percentage,Recently
+124,Bird.Money,BIRD/WETH,$1260671,$138.63,0.03%,-,Spot,Percentage,Recently
+125,Nexo,NEXO/WETH,$1260434,$1.71,0.03%,-,Spot,Percentage,Recently
+126,Axion,AXN/WETH,$1253243,$0.0001954,0.03%,-,Spot,Percentage,Recently
+127,NuCypher,NU/WETH,$1249589,$0.5406,0.03%,-,Spot,Percentage,Recently
+128,WETH,WETH/CRBN,$1243892,$1832.57,0.03%,-,Spot,Percentage,Recently
+129,Tixl NEW,TXL/WETH,$1217825,$0.5847,0.03%,0,Spot,Percentage,Recently
+130,CSP DAO,NEBO/WETH,$1212972,$12.83,0.03%,-,Spot,Percentage,Recently
+131,Unit Protocol Duck,DUCK/WETH,$1205521,$0.1438,0.03%,-,Spot,Percentage,Recently
+132,UniLend,UFT/WETH,$1192754,$1.24,0.03%,-,Spot,Percentage,Recently
+133,WETH,WETH/MFT,$1149966,$1754.03,0.03%,-,Spot,Percentage,Recently
+134,Sora,XOR/WETH,$1143566,$216.73,0.03%,636,Spot,Percentage,Recently
+135,88mph,MPH/WETH,$1118003,$158.39,0.03%,571,Spot,Percentage,Recently
+136,WETH,WETH/ZERO,$1107268,$1807.25,0.03%,-,Spot,Percentage,Recently
+137,WETH,WETH/YLD,$1078259,$1824.87,0.03%,-,Spot,Percentage,Recently
+138,UNION Protocol Governance Token,UNN/WETH,$1063959,$0.02538,0.03%,485,Spot,Percentage,Recently
+139,SHIBA INU,SHIB/WETH,$1060585,$0.0000000102,0.03%,-,Spot,Percentage,Recently
+140,OctoFi,OCTO/USDC,$1060007,$78.72,0.03%,-,Spot,Percentage,Recently
+141,UniMex Network,UMX/WETH,$1058305,$1.80,0.03%,-,Spot,Percentage,Recently
+142,DePay,DEPAY/WETH,$1035426,$3.90,0.03%,-,Spot,Percentage,Recently
+143,Scifi Finance,SPICE/USDC,$1018031,$2.75,0.03%,-,Spot,Percentage,Recently
+144,GeoDB,GEO/WETH,$1006879,$0.7153,0.03%,-,Spot,Percentage,Recently
+145,Rocket Pool,RPL/WETH,$984307,$5.45,0.03%,460,Spot,Percentage,Recently
+146,The Sandbox,SAND/WETH,$982776,$0.1504,0.03%,527,Spot,Unknown,Recently
+147,WETH,WETH/YLD,$978132,$1806.36,0.03%,-,Spot,Percentage,Recently
+148,Tether,USDT/FRONT,$974108,$1.00,0.03%,-,Spot,Percentage,Recently
+149,SmartKey,Skey/WETH,$967284,$0.2803,0.03%,-,Spot,Percentage,Recently
+150,Cometh,MUST/WETH,$958686,$353.27,0.03%,-,Spot,Percentage,Recently
+151,PolkaBridge,PBR/WETH,$953947,$0.1359,0.03%,-,Spot,Percentage,Recently
+152,DeltaHub Community,DHC/WETH,$943895,$1.75,0.03%,-,Spot,Percentage,Recently
+153,Insured Finance,INFI/WETH,$943057,$1.10,0.03%,-,Spot,Percentage,Recently
+154,The Famous Token,TFT/WETH,$923735,$48.51,0.02%,-,Spot,Percentage,Recently
+155,MahaDAO,MAHA/WETH,$921730,$13.54,0.02%,-,Spot,Percentage,Recently
+156,Bidao,BID/WETH,$914149,$0.01588,0.02%,0,Spot,Percentage,Recently
+157,WETH,WETH/TVK,$895334,$1600.48,0.02%,-,Spot,Percentage,Recently
+158,NFTX,NFTX/WETH,$885119,$186.90,0.02%,-,Spot,Percentage,Recently
+159,Akropolis,AKRO/WETH,$883342,$0.04659,0.02%,-,Spot,Percentage,Recently
+160,PowerPool,CVP/WETH,$870079,$3.23,0.02%,578,Spot,Percentage,Recently
+161,WETH,WETH/DMST,$859019,$1793.90,0.02%,-,Spot,Percentage,Recently
+162,DEXTools,DEXT/WETH,$858201,$0.3310,0.02%,402,Spot,Percentage,Recently
+163,BUILD Finance,BUILD/WETH,$858051,$42.70,0.02%,-,Spot,Percentage,Recently
+164,Balancer,BAL/WETH,$857359,$37.91,0.02%,384,Spot,Percentage,Recently
+165,UniLayer,LAYER/WETH,$854801,$0.3729,0.02%,-,Spot,Percentage,Recently
+166,Idle,IDLE/WETH,$854483,$13.85,0.02%,-,Spot,Percentage,Recently
+167,DIA,DIA/WETH,$851893,$2.57,0.02%,432,Spot,Percentage,Recently
+168,MANTRA DAO,OM/WETH,$842857,$0.1624,0.02%,-,Spot,Percentage,Recently
+169,WETH,WETH/DIP,$839053,$1755.94,0.02%,-,Spot,Percentage,Recently
+170,Yield Optimization Platform & Protocol,YOP/WETH,$838475,$1.03,0.02%,-,Spot,Percentage,Recently
+171,Zenfuse,ZEFU/WETH,$836056,$0.1008,0.02%,-,Spot,Percentage,Recently
+172,YF Link,YFL/WETH,$832105,$351.35,0.02%,-,Spot,Percentage,Recently
+173,Syntropy,NOIA/WETH,$830335,$0.2482,0.02%,-,Spot,Percentage,Recently
+174,Wise,WISE/WETH,$830088,$0.5501,0.02%,922,Spot,Percentage,Recently
+175,WETH,WETH/YF-DAI,$825648,$1792.32,0.02%,587,Spot,Percentage,Recently
+176,Unifty,NIF/WETH,$803580,$3.04,0.02%,-,Spot,Percentage,Recently
+177,RedFOX Labs,RFOX/WETH,$786315,$0.03499,0.02%,-,Spot,Percentage,Recently
+178,reflect.finance,RFI/WETH,$785369,$1.15,0.02%,-,Spot,Percentage,Recently
+179,WETH,WETH/UTK,$778830,$1778.04,0.02%,-,Spot,Percentage,Recently
+180,Geeq,GEEQ/WETH,$775093,$1.43,0.02%,-,Spot,Percentage,Recently
+181,Archer DAO Governance Token,ARCH/WETH,$743228,$1.88,0.02%,387,Spot,Percentage,Recently
+182,WETH,WETH/COTI,$740324,$1764.35,0.02%,-,Spot,Percentage,Recently
+183,Wrapped CrescoFin,wCRES/WETH,$739023,$10.77,0.02%,465,Spot,Percentage,Recently
+184,Team Finance,TEAM/WETH,$721793,$3.56,0.02%,-,Spot,Percentage,68 days ago
+185,Dai,DAI/DAIQ,$720487,$1.00,0.02%,-,Spot,Percentage,Recently
+186,TosDis,DIS/WETH,$715235,$121.15,0.02%,-,Spot,Percentage,Recently
+187,World Token,WORLD/WETH,$705118,$0.09991,0.02%,-,Spot,Percentage,Recently
+188,SKALE Network,SKL/WETH,$683542,$0.2271,0.02%,-,Spot,Percentage,Recently
+189,NIX Bridge Token,NBT/WETH,$681146,$114.96,0.02%,-,Spot,Percentage,Recently
+190,SpiderDAO,SPDR/WETH,$672752,$0.04192,0.02%,-,Spot,Percentage,Recently
+191,Defla,DEFLA/WETH,$664535,$2.38,0.02%,-,Spot,Percentage,Recently
+192,Combine.finance,COMB/WETH,$657279,$236.93,0.02%,-,Spot,Percentage,Recently
+193,SwissBorg,CHSB/WETH,$644907,$0.8105,0.02%,-,Spot,Percentage,Recently
+194,Prosper,PROS/USDC,$627904,$2.39,0.02%,-,Spot,Percentage,Recently
+195,Strong,STRONG/WETH,$617901,$96.40,0.02%,-,Spot,Percentage,Recently
+196,Chi Gastoken,CHI/WETH,$607496,$5.88,0.02%,-,Spot,Percentage,Recently
+197,LTO Network,LTO/WETH,$607333,$0.3213,0.02%,-,Spot,Percentage,Recently
+198,Swipe,SXP/WETH,$602475,$2.33,0.02%,-,Spot,Percentage,Recently
+199,Badger DAO,BADGER/WETH,$602362,$78.95,0.02%,-,Spot,Percentage,Recently
+200,WETH,WETH/AXS,$587875,$1722.88,0.02%,-,Spot,Percentage,Recently
+201,BlackDragon,BDT/USDT,$587702,$17.83,0.02%,-,Spot,Percentage,Recently
+202,Duck DAO (DLP Duck Token),DUCK/DDIM,$587687,$1.06,0.02%,615,Spot,Percentage,Recently
+203,CyberFi Token,CFi/WETH,$587632,$8.44,0.02%,-,Spot,Percentage,Recently
+204,DEUS Finance,DEUS/WETH,$586730,$6.95,0.02%,-,Spot,Percentage,Recently
+205,Gemini Dollar,GUSD/WETH,$584046,$0.9740,0.02%,-,Spot,Percentage,Recently
+206,bZx Protocol,BZRX/WETH,$584023,$0.5359,0.02%,-,Spot,Percentage,Recently
+207,WETH,WETH/FSW,$576569,$1807.40,0.02%,1,Spot,Percentage,Recently
+208,VEROX,VRX/WETH,$571694,$240.10,0.02%,-,Spot,Percentage,Recently
+209,Spaceswap,MILK2/WETH,$570415,$0.8253,0.02%,-,Spot,Percentage,Recently
+210,Decentraland,MANA/WETH,$567238,$0.2505,0.02%,-,Spot,Percentage,Recently
+211,DegenVC,DGVC/WETH,$560090,$1.60,0.01%,-,Spot,Percentage,Recently
+212,USD Coin,USDC/EURS,$555180,$0.9959,0.01%,652,Spot,Percentage,Recently
+213,REVV,REVV/WETH,$543545,$0.07165,0.01%,-,Spot,Percentage,Recently
+214,Bonded Finance,BOND/WETH,$540433,$0.01971,0.01%,-,Spot,Percentage,Recently
+215,Cap,CAP/WETH,$532900,$94.28,0.01%,-,Spot,Percentage,Recently
+216,0Chain,ZCN/WETH,$526436,$0.8359,0.01%,-,Spot,Percentage,Recently
+217,Yearn Land,YLAND/WETH,$526363,$256.49,0.01%,-,Spot,Percentage,110 days ago
+218,UniDexBot,UNDB/WETH,$521814,$4056.09,0.01%,-,Spot,Percentage,110 days ago
+219,SHAKE,SHAKE/WETH,$518813,$3554.82,0.01%,-,Spot,Percentage,Recently
+220,Stabilize,STBZ/WETH,$517324,$18.64,0.01%,450,Spot,Percentage,Recently
+221,MAPS,MAPS/WETH,$516755,$0.6849,0.01%,-,Spot,Percentage,Recently
+222,WETH,WETH/RLY,$500785,$1805.78,0.01%,-,Spot,Percentage,Recently
+223,WETH,WETH/HEZ,$496313,$1814.42,0.01%,-,Spot,Percentage,Recently
+224,Bancor,BNT/WETH,$492769,$2.83,0.01%,-,Spot,Percentage,Recently
+225,WETH,WETH/renFIL,$483984,$1807.25,0.01%,406,Spot,Percentage,Recently
+226,Ethanol,ENOL/WETH,$482610,$965.46,0.01%,-,Spot,Percentage,Recently
+227,Polkacover,CVR/WETH,$477760,$0.5348,0.01%,-,Spot,Percentage,Recently
+228,Kleros,PNK/WETH,$462590,$0.08231,0.01%,447,Spot,Percentage,Recently
+229,TrueUSD,TUSD/WETH,$461824,$0.9800,0.01%,-,Spot,Percentage,Recently
+230,DEUS Finance,DEUS/DEA,$460663,$7.04,0.01%,554,Spot,Percentage,Recently
+231,Civitas Protocol,CVT/WETH,$459897,$772.63,0.01%,-,Spot,Percentage,Recently
+232,DOS Network,DOS/WETH,$454696,$0.09481,0.01%,-,Spot,Percentage,Recently
+233,SpiderDAO,SPDR/USDT,$454080,$0.04169,0.01%,-,Spot,Percentage,Recently
+234,Darwinia Network,RING/WETH,$447632,$0.09946,0.01%,-,Spot,Percentage,Recently
+235,Aleph.im,ALEPH/WETH,$447470,$0.4177,0.01%,-,Spot,Percentage,Recently
+236,SingularityNET,AGI/WETH,$445349,$0.1440,0.01%,-,Spot,Percentage,Recently
+237,SOAR.FI,SOAR/WETH,$440713,$0.8244,0.01%,-,Spot,Percentage,Recently
+238,Basic Attention Token,BAT/WETH,$438578,$0.4325,0.01%,458,Spot,Percentage,Recently
+239,iExec RLC,RLC/WETH,$436054,$1.88,0.01%,-,Spot,Percentage,Recently
+240,WETH,WETH/KPER,$416828,$0,0.01%,-,Spot,Percentage,101 days ago
+241,Audius,AUDIO/WETH,$415092,$0.3245,0.01%,-,Spot,Percentage,Recently
+242,Mirrored Tesla,mTSLA/UST,$411408,$936.20,0.01%,-,Spot,Percentage,Recently
+243,PeerEx,PERX/WETH,$409793,$0.005370,0.01%,-,Spot,Percentage,Recently
+244,Armor NXM,arNXM/WETH,$406829,$53.81,0.01%,540,Spot,Percentage,Recently
+245,Mars,Mars/USDT,$406214,$0.2440,0.01%,-,Spot,Percentage,Recently
+246,LGO Token,LGO/WETH,$404428,$0.2455,0.01%,-,Spot,Percentage,Recently
+247,GNY,GNYerc20/WETH,$395768,$1.41,0.01%,-,Spot,Percentage,Recently
+248,ROCKI,ROCKS/WETH,$391764,$0.1681,0.01%,-,Spot,Percentage,Recently
+249,CryptoKek,KEK/WETH,$391193,$0.03589,0.01%,-,Spot,Percentage,Recently
+250,THORChain (ERC20),RUNE/WETH,$384384,$4.68,0.01%,-,Spot,Percentage,Recently
+251,OctoFi,OCTO/WETH,$383956,$79.36,0.01%,-,Spot,Percentage,Recently
+252,Strudel Finance,$TRDL/WETH,$376954,$2.43,0.01%,-,Spot,Percentage,Recently
+253,PegsUSD,PUSD/PEGS,$372781,$0.2214,0.01%,-,Spot,Percentage,431 hours ago
+254,MCDEX,MCB/WETH,$368956,$11.03,0.01%,429,Spot,Percentage,Recently
+255,Mirrored iShares Gold Trust,mIAU/UST,$365664,$19.22,0.01%,-,Spot,Percentage,Recently
+256,unilock.network,UNL/WETH,$363930,$2739.78,0.01%,-,Spot,Percentage,Recently
+257,Trade Butler Bot,TBB/WETH,$359164,$795.96,0.01%,-,Spot,Percentage,Recently
+258,Wrapped NXM,wNXM/WETH,$349701,$55.39,0.01%,-,Spot,Percentage,Recently
+259,Band Protocol,BAND/WETH,$347275,$13.20,0.01%,-,Spot,Percentage,Recently
+260,Energi,NRGE/WETH,$344468,$2.34,0.01%,-,Spot,Percentage,Recently
+261,Bundles Finance,BUND/WETH,$342896,$17.74,0.01%,-,Spot,Percentage,Recently
+262,UniCrypt,UNCX/WETH,$335962,$144.96,0.01%,-,Spot,Percentage,Recently
+263,WETH,WETH/DG,$334550,$1806.11,0.01%,-,Spot,Percentage,Recently
+264,WETH,WETH/ROOT,$328060,$1807.25,0.01%,-,Spot,Percentage,Recently
+265,Lido DAO Token,LDO/WETH,$325382,$2.48,0.01%,-,Spot,Percentage,Recently
+266,OpenDAO,OPEN/WETH,$324799,$1.63,0.01%,-,Spot,Percentage,Recently
+267,pBTC35A,pBTC35A/USDT,$323110,$111.57,0.01%,-,Spot,Percentage,Recently
+268,Secret (ERC20),WSCRT/WETH,$316328,$1.82,0.01%,-,Spot,Percentage,Recently
+269,UniDexGas,UNDG/WETH,$315057,$1244.93,0.01%,-,Spot,Percentage,Recently
+270,Function X,FX/WETH,$312763,$0.09924,0.01%,-,Spot,Percentage,Recently
+271,Bounce Token,BOT/WETH,$310976,$1843.78,0.01%,-,Spot,Percentage,Recently
+272,ZeroSwap,ZEE/WETH,$310416,$0.3943,0.01%,-,Spot,Percentage,Recently
+273,BoringDAO,BOR/WETH,$308840,$633.20,0.01%,-,Spot,Percentage,46 days ago
+274,Serum,SRM/WETH,$305648,$3.50,0.01%,-,Spot,Percentage,Recently
+275,FEGtoken,FEG/WETH,$304503,<$0.00000001,0.01%,-,Spot,Percentage,Recently
+276,Akropolis,AKRO/USDC,$303476,$0.04718,0.01%,-,Spot,Percentage,Recently
+277,Plasma Finance,PPAY/WETH,$302700,$0.06593,0.01%,-,Spot,Percentage,Recently
+278,WETH,WETH/CACXT,$302617,$0,0.01%,-,Spot,Percentage,105 days ago
+279,Mirrored Google,mGOOGL/UST,$302584,$2322.02,0.01%,-,Spot,Percentage,Recently
+280,GYSR,GYSR/WETH,$302151,$0.6214,0.01%,-,Spot,Percentage,Recently
+281,UnFederalReserve,ERSDL/WETH,$299747,$0.01835,0.01%,-,Spot,Percentage,Recently
+282,OIN Finance,OIN/WETH,$298957,$0.3652,0.01%,-,Spot,Percentage,Recently
+283,Mettalex,MTLX/USDT,$298661,$8.57,0.01%,-,Spot,Percentage,Recently
+284,Hxro,HXRO/WETH,$295935,$0.2853,0.01%,-,Spot,Percentage,Recently
+285,Axia Protocol,AXIAv3/WETH,$293467,$0.4638,0.01%,-,Spot,Percentage,Recently
+286,xFund,xFUND/WETH,$290257,$818.15,0.01%,-,Spot,Percentage,Recently
+287,CUDOS,CUDOS/WETH,$283925,$0.04503,0.01%,-,Spot,Percentage,Recently
+288,Universal Dollar,U8D/USDC,$281027,$0.9074,0.01%,-,Spot,Percentage,Recently
+289,Name Changing Token,NCT/WETH,$279748,$0.06545,0.01%,-,Spot,Percentage,Recently
+290,Doki Doki Finance,DOKI/WETH,$278423,$135.15,0.01%,-,Spot,Percentage,Recently
+291,Vectorspace AI,VXV/WETH,$274723,$0.7125,0.01%,-,Spot,Percentage,Recently
+292,Mirrored iShares Silver Trust,mSLV/UST,$274129,$28.20,0.01%,-,Spot,Percentage,Recently
+293,Tellor,TRB/WETH,$267812,$42.69,0.01%,-,Spot,Percentage,Recently
+294,QuiverX,QRX/WETH,$267239,$0.04637,0.01%,-,Spot,Percentage,Recently
+295,WETH,WETH/ENJ,$263872,$1757.01,0.01%,-,Spot,Percentage,Recently
+296,DeFi Yield Protocol,DYP/WETH,$262334,$4.42,0.01%,-,Spot,Percentage,Recently
+297,Benchmark Protocol,MARK/USDC,$259221,$1.91,0.01%,-,Spot,Percentage,Recently
+298,UMA,UMA/WETH,$259085,$29.07,0.01%,488,Spot,Percentage,Recently
+299,ARMOR,ARMOR/DAI,$255763,$0.9054,0.01%,-,Spot,Percentage,Recently
+300,Glitch,GLCH/WETH,$254716,$0.1174,0.01%,-,Spot,Percentage,Recently
+301,DefiCliq,CLIQ/WETH,$253572,$0.09806,0.01%,-,Spot,Percentage,Recently
+302,USD Coin,USDC/DSD,$247420,$1.01,0.01%,-,Spot,Percentage,Recently
+303,Morpheus Labs,MITx/WETH,$246514,$0.03936,0.01%,-,Spot,Percentage,Recently
+304,AllianceBlock,ALBT/USDT,$246358,$0.6233,0.01%,-,Spot,Percentage,Recently
+305,YAM v3,YAM/WETH,$245759,$5.17,0.01%,-,Spot,Percentage,Recently
+306,SmartCredit Token,SMARTCREDIT/WETH,$243070,$6.51,0.01%,-,Spot,Percentage,Recently
+307,WETH,WETH/COIN,$241938,$1807.25,0.01%,-,Spot,Percentage,Recently
+308,Index Cooperative,INDEX/WETH,$241533,$23.30,0.01%,-,Spot,Percentage,Recently
+309,Holo,HOT/WETH,$241035,$0.001210,0.01%,-,Spot,Percentage,Recently
+310,Golff,GOF/WETH,$238409,$2.02,0.01%,-,Spot,Percentage,Recently
+311,COVER Protocol,COVER/WETH,$238303,$828.43,0.01%,-,Spot,Percentage,Recently
+312,CorionX,CORX/WETH,$235709,$0.01646,0.01%,-,Spot,Percentage,Recently
+313,EnCore,ENCORE/WETH,$233790,$533.75,0.01%,-,Spot,Percentage,110 days ago
+314,Gourmet Galaxy,GUM/WETH,$229769,$0.6967,0.01%,-,Spot,Percentage,Recently
+315,Fetch.ai,FET/WETH,$228492,$0.2496,0.01%,-,Spot,Percentage,Recently
+316,Mirrored Alibaba,mBABA/UST,$223564,$292.29,0.01%,-,Spot,Percentage,Recently
+317,DEUS Finance DEA,DEA/USDC,$223387,$192.95,0.01%,-,Spot,Percentage,Recently
+318,Yield Farming Token,YFT/WETH,$217458,$17.62,0.01%,-,Spot,Percentage,110 days ago
+319,WETH,WETH/DAOFI,$215832,$0,0.01%,387,Spot,Percentage,Recently
+320,LCX,LCX/WETH,$212004,$0.02022,0.01%,-,Spot,Percentage,Recently
+321,Katalyo,KTLYO/WETH,$211211,$0.2543,0.01%,-,Spot,Percentage,Recently
+322,IYF.finance,IYF/WETH,$209853,$203.67,0.01%,-,Spot,Percentage,Recently
+323,PlotX,PLOT/WETH,$207684,$0.07759,0.01%,-,Spot,Percentage,Recently
+324,DeFi Yield Protocol,DYP/USDT,$206930,$4.49,0.01%,-,Spot,Percentage,Recently
+325,Orchid,OXT/WETH,$206531,$0.4628,0.01%,-,Spot,Percentage,Recently
+326,YFTether,YFTE/WETH,$204472,$154.24,0.01%,-,Spot,Percentage,Recently
+327,WETH,WETH/FAST,$204354,$1807.25,0.01%,-,Spot,Percentage,Recently
+328,ARTH,ARTH/DAI,$203416,$0.7508,0.01%,-,Spot,Percentage,Recently
+329,PAX Gold,PAXG/WETH,$202274,$1875.51,0.01%,0,Spot,Percentage,Recently
+330,YFIONE,YFO/WETH,$199768,$469.03,0.01%,-,Spot,Percentage,Recently
+331,Neuromorphic.io,NMP/WETH,$196448,$0.2448,0.01%,-,Spot,Percentage,110 days ago
+332,WETH,WETH/EXNT,$195133,$1807.25,0.01%,1,Spot,Percentage,Recently
+333,Gas Token Two,GST2/WETH,$193716,$314.11,0.01%,-,Spot,Percentage,Recently
+334,Tether,USDT/REEF,$193107,$0.9549,0.01%,-,Spot,Percentage,Recently
+335,DigiCol,DGCL/WETH,$193025,$0.06776,0.01%,-,Spot,Percentage,Recently
+336,Aragon,ANT/WETH,$192882,$5.82,0.01%,-,Spot,Percentage,Recently
+337,WETH,WETH/YVS,$191680,$1720.07,0.01%,-,Spot,Percentage,Recently
+338,Swerve,SWRV/WETH,$190095,$1.75,0.01%,-,Spot,Percentage,Recently
+339,TerraUSD,UST/mAAPL,$189520,$1.01,0.01%,-,Spot,Percentage,Recently
+340,Bifrost,BFC/WETH,$187902,$0.04364,0.01%,-,Spot,Percentage,Recently
+341,Voyager Token,VGX/WETH,$186061,$2.32,0.00%,-,Spot,Percentage,Recently
+342,Dego Finance,DEGO/WETH,$185596,$1.72,0.00%,434,Spot,Percentage,Recently
+343,Chicken,KFC/WETH,$184764,$11.85,0.00%,-,Spot,Percentage,110 days ago
+344,Paypolitan Token,EPAN/WETH,$182116,$0.1295,0.00%,-,Spot,Percentage,Recently
+345,WETH,WETH/CNFI,$181258,$1805.34,0.00%,0,Spot,Percentage,Recently
+346,WETH,WETH/SALE,$181008,$1805.97,0.00%,-,Spot,Percentage,Recently
+347,PegsUSD,PUSD/USDC,$180689,$0.2018,0.00%,-,Spot,Percentage,429 hours ago
+348,Unisocks,SOCKS/WETH,$180461,$26084.62,0.00%,-,Spot,Percentage,Recently
+349,Function X,FX/NPXS,$180447,$0.09411,0.00%,-,Spot,Percentage,Recently
+350,Kira Network,KEX/WETH,$179181,$0.5705,0.00%,-,Spot,Percentage,Recently
+351,Dynamic Supply Tracker,DSTR/DAI,$178922,$6.36,0.00%,-,Spot,Percentage,580 hours ago
+352,WETH,WETH/NEX,$178413,$1720.01,0.00%,-,Spot,Percentage,Recently
+353,Empty Set Dollar,ESD/USDC,$177817,$0.1946,0.00%,-,Spot,Percentage,Recently
+354,Rigel Finance,RIGEL/WETH,$177696,$266.63,0.00%,-,Spot,Percentage,Recently
+355,KittenFinance,KIF/WETH,$177692,$157.34,0.00%,-,Spot,Percentage,Recently
+356,WETH,WETH/MEE,$172032,$0,0.00%,-,Spot,Percentage,89 days ago
+357,WETH,WETH/FWT,$170536,$1798.32,0.00%,-,Spot,Percentage,Recently
+358,Governor DAO,GDAO/WETH,$170108,$1.99,0.00%,-,Spot,Percentage,Recently
+359,Hyprr (Howdoo),uDOO/WETH,$168620,$0.05531,0.00%,-,Spot,Percentage,Recently
+360,xBTC,xBTC/WETH,$168578,$0.5839,0.00%,-,Spot,Percentage,110 days ago
+361,TerraUSD,UST/mVIXY,$168097,$1.01,0.00%,-,Spot,Percentage,Recently
+362,WETH,WETH/GASG,$166390,$1807.25,0.00%,-,Spot,Percentage,Recently
+363,Dextoken,DEXG/USDT,$164313,$367.71,0.00%,-,Spot,Percentage,Recently
+364,ARMOR,ARMOR/WBTC,$162912,$0.8828,0.00%,-,Spot,Percentage,Recently
+365,DeFiSocial Gaming,DFSocial/WETH,$161713,$123.72,0.00%,-,Spot,Percentage,Recently
+366,PieDAO DOUGH v2,DOUGH/WETH,$160392,$1.64,0.00%,-,Spot,Percentage,Recently
+367,Request,REQ/WETH,$160313,$0.06264,0.00%,-,Spot,Percentage,Recently
+368,WETH,WETH/ZORA,$159011,$1765.54,0.00%,-,Spot,Percentage,Recently
+369,Dev Protocol,DEV/WETH,$158560,$6.04,0.00%,-,Spot,Percentage,Recently
+370,NFTLootBox,LOOT/WETH,$157939,$35.20,0.00%,-,Spot,Percentage,Recently
+371,Ferrum Network,FRM/FRMX,$157225,$0.3693,0.00%,-,Spot,Percentage,Recently
+372,Hakka.Finance,HAKKA/WETH,$156415,$0.04871,0.00%,-,Spot,Percentage,Recently
+373,ethArt,ARTE/WETH,$155027,$3.71,0.00%,-,Spot,Percentage,Recently
+374,Nsure.Network,NSURE/WETH,$153911,$0.7547,0.00%,-,Spot,Percentage,Recently
+375,TomoChain,TOMOE/USDT,$153413,$0.6664,0.00%,-,Spot,Percentage,103 days ago
+376,TerraUSD,UST/mTWTR,$152998,$1.01,0.00%,-,Spot,Percentage,Recently
+377,JustLiquidity,JUL/WETH,$152163,$99.09,0.00%,-,Spot,Percentage,Recently
+378,Mirrored Microsoft,mMSFT/UST,$152007,$266.40,0.00%,-,Spot,Percentage,Recently
+379,Unitrade,TRADE/WETH,$150256,$0.3151,0.00%,0,Spot,Percentage,Recently
+380,Smart MFG,MFG/WETH,$150039,$0.03299,0.00%,-,Spot,Percentage,Recently
+381,Ormeus Ecosystem,ECO/USDT,$149187,$0.001021,0.00%,-,Spot,Percentage,Recently
+382,DeFiat,DFT/WETH,$147433,$3.89,0.00%,-,Spot,Percentage,Recently
+383,Darwinia Commitment Token,KTON/WETH,$146024,$110.81,0.00%,-,Spot,Percentage,Recently
+384,MTI Finance,MTI/WETH,$145905,$0.1384,0.00%,-,Spot,Percentage,83 days ago
+385,FunFair,FUN/WETH,$145253,$0.03796,0.00%,-,Spot,Percentage,Recently
+386,EasyFi,EASY/USDC,$143354,$15.97,0.00%,-,Spot,Percentage,Recently
+387,WETH,WETH/GOVI,$142713,$1807.25,0.00%,-,Spot,Percentage,Recently
+388,Anatha,wANATHA/WETH,$141319,$0.09326,0.00%,-,Spot,Percentage,Recently
+389,WETH,WETH/METRIC,$139912,$0,0.00%,-,Spot,Percentage,Recently
+390,OpenDAO,OPEN/USDT,$137958,$1.67,0.00%,-,Spot,Percentage,Recently
+391,UniDex,UNIDX/WETH,$137393,$0.8628,0.00%,-,Spot,Percentage,Recently
+392,Rug Proof,RPT/WETH,$136226,$0.9145,0.00%,-,Spot,Percentage,Recently
+393,WETH,WETH/DGTX,$135347,$1835.60,0.00%,-,Spot,Percentage,Recently
+394,WETH,WETH/UWL,$133453,$1807.25,0.00%,-,Spot,Percentage,Recently
+395,Linear,LINA/WETH,$132372,$0.01632,0.00%,-,Spot,Percentage,79 days ago
+396,Nyan V2,NYAN-2/WETH,$131722,$65.66,0.00%,-,Spot,Percentage,Recently
+397,DeFi Yield Protocol,DYP/USDC,$129478,$4.45,0.00%,-,Spot,Percentage,Recently
+398,Multiplier,MXX/WETH,$127471,$0.07827,0.00%,-,Spot,Percentage,Recently
+399,Wootrade,WOO/WETH,$126745,$0.05263,0.00%,-,Spot,Percentage,Recently
+400,Jarvis Network,JRT/WETH,$125386,$0.1107,0.00%,-,Spot,Percentage,Recently
